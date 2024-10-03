@@ -1,1 +1,2 @@
-# mkos
+# res
+a simple project
